@@ -1,0 +1,16 @@
+C:\Users\eg1001\Desktop\.net\Day23\AddNewContactUC2\AddNewContactUC2\bin\Debug\net5.0\AddNewContactUC2.exe
+C:\Users\eg1001\Desktop\.net\Day23\AddNewContactUC2\AddNewContactUC2\bin\Debug\net5.0\AddNewContactUC2.deps.json
+C:\Users\eg1001\Desktop\.net\Day23\AddNewContactUC2\AddNewContactUC2\bin\Debug\net5.0\AddNewContactUC2.runtimeconfig.json
+C:\Users\eg1001\Desktop\.net\Day23\AddNewContactUC2\AddNewContactUC2\bin\Debug\net5.0\AddNewContactUC2.runtimeconfig.dev.json
+C:\Users\eg1001\Desktop\.net\Day23\AddNewContactUC2\AddNewContactUC2\bin\Debug\net5.0\AddNewContactUC2.dll
+C:\Users\eg1001\Desktop\.net\Day23\AddNewContactUC2\AddNewContactUC2\bin\Debug\net5.0\AddNewContactUC2.pdb
+C:\Users\eg1001\Desktop\.net\Day23\AddNewContactUC2\AddNewContactUC2\obj\Debug\net5.0\AddNewContactUC2.csproj.AssemblyReference.cache
+C:\Users\eg1001\Desktop\.net\Day23\AddNewContactUC2\AddNewContactUC2\obj\Debug\net5.0\AddNewContactUC2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eg1001\Desktop\.net\Day23\AddNewContactUC2\AddNewContactUC2\obj\Debug\net5.0\AddNewContactUC2.AssemblyInfoInputs.cache
+C:\Users\eg1001\Desktop\.net\Day23\AddNewContactUC2\AddNewContactUC2\obj\Debug\net5.0\AddNewContactUC2.AssemblyInfo.cs
+C:\Users\eg1001\Desktop\.net\Day23\AddNewContactUC2\AddNewContactUC2\obj\Debug\net5.0\AddNewContactUC2.csproj.CoreCompileInputs.cache
+C:\Users\eg1001\Desktop\.net\Day23\AddNewContactUC2\AddNewContactUC2\obj\Debug\net5.0\AddNewContactUC2.dll
+C:\Users\eg1001\Desktop\.net\Day23\AddNewContactUC2\AddNewContactUC2\obj\Debug\net5.0\refint\AddNewContactUC2.dll
+C:\Users\eg1001\Desktop\.net\Day23\AddNewContactUC2\AddNewContactUC2\obj\Debug\net5.0\AddNewContactUC2.pdb
+C:\Users\eg1001\Desktop\.net\Day23\AddNewContactUC2\AddNewContactUC2\obj\Debug\net5.0\AddNewContactUC2.genruntimeconfig.cache
+C:\Users\eg1001\Desktop\.net\Day23\AddNewContactUC2\AddNewContactUC2\obj\Debug\net5.0\ref\AddNewContactUC2.dll

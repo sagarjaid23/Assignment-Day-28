@@ -1,0 +1,16 @@
+C:\Users\eg1001\Desktop\.net\Day23\NewContatctUC1\NewContatctUC1\bin\Debug\net5.0\NewContatctUC1.exe
+C:\Users\eg1001\Desktop\.net\Day23\NewContatctUC1\NewContatctUC1\bin\Debug\net5.0\NewContatctUC1.deps.json
+C:\Users\eg1001\Desktop\.net\Day23\NewContatctUC1\NewContatctUC1\bin\Debug\net5.0\NewContatctUC1.runtimeconfig.json
+C:\Users\eg1001\Desktop\.net\Day23\NewContatctUC1\NewContatctUC1\bin\Debug\net5.0\NewContatctUC1.runtimeconfig.dev.json
+C:\Users\eg1001\Desktop\.net\Day23\NewContatctUC1\NewContatctUC1\bin\Debug\net5.0\NewContatctUC1.dll
+C:\Users\eg1001\Desktop\.net\Day23\NewContatctUC1\NewContatctUC1\bin\Debug\net5.0\NewContatctUC1.pdb
+C:\Users\eg1001\Desktop\.net\Day23\NewContatctUC1\NewContatctUC1\obj\Debug\net5.0\NewContatctUC1.csproj.AssemblyReference.cache
+C:\Users\eg1001\Desktop\.net\Day23\NewContatctUC1\NewContatctUC1\obj\Debug\net5.0\NewContatctUC1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eg1001\Desktop\.net\Day23\NewContatctUC1\NewContatctUC1\obj\Debug\net5.0\NewContatctUC1.AssemblyInfoInputs.cache
+C:\Users\eg1001\Desktop\.net\Day23\NewContatctUC1\NewContatctUC1\obj\Debug\net5.0\NewContatctUC1.AssemblyInfo.cs
+C:\Users\eg1001\Desktop\.net\Day23\NewContatctUC1\NewContatctUC1\obj\Debug\net5.0\NewContatctUC1.csproj.CoreCompileInputs.cache
+C:\Users\eg1001\Desktop\.net\Day23\NewContatctUC1\NewContatctUC1\obj\Debug\net5.0\NewContatctUC1.dll
+C:\Users\eg1001\Desktop\.net\Day23\NewContatctUC1\NewContatctUC1\obj\Debug\net5.0\refint\NewContatctUC1.dll
+C:\Users\eg1001\Desktop\.net\Day23\NewContatctUC1\NewContatctUC1\obj\Debug\net5.0\NewContatctUC1.pdb
+C:\Users\eg1001\Desktop\.net\Day23\NewContatctUC1\NewContatctUC1\obj\Debug\net5.0\NewContatctUC1.genruntimeconfig.cache
+C:\Users\eg1001\Desktop\.net\Day23\NewContatctUC1\NewContatctUC1\obj\Debug\net5.0\ref\NewContatctUC1.dll

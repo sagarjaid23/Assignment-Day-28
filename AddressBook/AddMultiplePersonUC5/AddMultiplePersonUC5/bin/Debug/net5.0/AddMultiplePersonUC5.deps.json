@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AddMultiplePersonUC5/1.0.0": {
+        "runtime": {
+          "AddMultiplePersonUC5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AddMultiplePersonUC5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

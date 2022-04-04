@@ -1,0 +1,16 @@
+C:\Users\eg1001\Desktop\.net\Day23\AddMultiplePersonUC5\AddMultiplePersonUC5\bin\Debug\net5.0\AddMultiplePersonUC5.exe
+C:\Users\eg1001\Desktop\.net\Day23\AddMultiplePersonUC5\AddMultiplePersonUC5\bin\Debug\net5.0\AddMultiplePersonUC5.deps.json
+C:\Users\eg1001\Desktop\.net\Day23\AddMultiplePersonUC5\AddMultiplePersonUC5\bin\Debug\net5.0\AddMultiplePersonUC5.runtimeconfig.json
+C:\Users\eg1001\Desktop\.net\Day23\AddMultiplePersonUC5\AddMultiplePersonUC5\bin\Debug\net5.0\AddMultiplePersonUC5.runtimeconfig.dev.json
+C:\Users\eg1001\Desktop\.net\Day23\AddMultiplePersonUC5\AddMultiplePersonUC5\bin\Debug\net5.0\AddMultiplePersonUC5.dll
+C:\Users\eg1001\Desktop\.net\Day23\AddMultiplePersonUC5\AddMultiplePersonUC5\bin\Debug\net5.0\AddMultiplePersonUC5.pdb
+C:\Users\eg1001\Desktop\.net\Day23\AddMultiplePersonUC5\AddMultiplePersonUC5\obj\Debug\net5.0\AddMultiplePersonUC5.csproj.AssemblyReference.cache
+C:\Users\eg1001\Desktop\.net\Day23\AddMultiplePersonUC5\AddMultiplePersonUC5\obj\Debug\net5.0\AddMultiplePersonUC5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eg1001\Desktop\.net\Day23\AddMultiplePersonUC5\AddMultiplePersonUC5\obj\Debug\net5.0\AddMultiplePersonUC5.AssemblyInfoInputs.cache
+C:\Users\eg1001\Desktop\.net\Day23\AddMultiplePersonUC5\AddMultiplePersonUC5\obj\Debug\net5.0\AddMultiplePersonUC5.AssemblyInfo.cs
+C:\Users\eg1001\Desktop\.net\Day23\AddMultiplePersonUC5\AddMultiplePersonUC5\obj\Debug\net5.0\AddMultiplePersonUC5.csproj.CoreCompileInputs.cache
+C:\Users\eg1001\Desktop\.net\Day23\AddMultiplePersonUC5\AddMultiplePersonUC5\obj\Debug\net5.0\AddMultiplePersonUC5.dll
+C:\Users\eg1001\Desktop\.net\Day23\AddMultiplePersonUC5\AddMultiplePersonUC5\obj\Debug\net5.0\refint\AddMultiplePersonUC5.dll
+C:\Users\eg1001\Desktop\.net\Day23\AddMultiplePersonUC5\AddMultiplePersonUC5\obj\Debug\net5.0\AddMultiplePersonUC5.pdb
+C:\Users\eg1001\Desktop\.net\Day23\AddMultiplePersonUC5\AddMultiplePersonUC5\obj\Debug\net5.0\AddMultiplePersonUC5.genruntimeconfig.cache
+C:\Users\eg1001\Desktop\.net\Day23\AddMultiplePersonUC5\AddMultiplePersonUC5\obj\Debug\net5.0\ref\AddMultiplePersonUC5.dll
